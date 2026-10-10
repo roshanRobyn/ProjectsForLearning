@@ -1,7 +1,7 @@
 import os
 import streamlit as st
-langchainapikey="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"
-fireworks="fw_3ZXFYaWXy9MNCZLKkXr9c2SK"
+langchainapikey="smithsmithsmith"
+fireworks="fireworksfireworks"
 from transformers import AutoTokenizer, AutoModel
 import torch
 
